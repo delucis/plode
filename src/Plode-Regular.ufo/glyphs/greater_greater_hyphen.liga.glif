@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="greater_greater_hyphen.liga" format="1">
+  <advance width="1800"/>
+  <outline>
+    <contour>
+      <point x="1681" y="272" type="line"/>
+      <point x="1681" y="340" type="line"/>
+      <point x="644" y="340" type="line"/>
+      <point x="644" y="272" type="line"/>
+    </contour>
+    <component base="_arrowhead.right" xOffset="227"/>
+    <component base="_arrowhead.right" xOffset="-56"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019-10-04 22:16:12 +0000</string>
+    </dict>
+  </lib>
+</glyph>

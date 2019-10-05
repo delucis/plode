@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="slash_asterisk.liga" format="1">
+  <advance width="1200"/>
+  <outline>
+    <component base="slash"/>
+    <component base="asterisk" xOffset="450"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019-10-04 23:03:25 +0000</string>
+    </dict>
+  </lib>
+</glyph>

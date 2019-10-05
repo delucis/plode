@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="less_less.liga" format="1">
+  <advance width="1200"/>
+  <outline>
+    <contour>
+      <point x="565" y="16" type="line" name="hr00"/>
+      <point x="565" y="101" type="line"/>
+      <point x="210" y="302" type="line"/>
+      <point x="210" y="310" type="line"/>
+      <point x="565" y="511" type="line"/>
+      <point x="565" y="594" type="line"/>
+      <point x="135" y="345" type="line"/>
+      <point x="135" y="265" type="line"/>
+    </contour>
+    <contour>
+      <point x="1065" y="16" type="line" name="hr00"/>
+      <point x="1065" y="101" type="line"/>
+      <point x="710" y="302" type="line"/>
+      <point x="710" y="310" type="line"/>
+      <point x="1065" y="511" type="line"/>
+      <point x="1065" y="594" type="line"/>
+      <point x="635" y="345" type="line"/>
+      <point x="635" y="265" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019-10-05 00:03:44 +0000</string>
+    </dict>
+  </lib>
+</glyph>
