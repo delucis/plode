@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="greater_greater_equal.liga" format="1">
+  <advance width="1800"/>
+  <outline>
+    <contour>
+      <point x="648" y="250" type="line"/>
+      <point x="598" y="207" type="line"/>
+      <point x="449" y="58" type="line"/>
+      <point x="529" y="-22" type="line"/>
+      <point x="679" y="128" type="line"/>
+      <point x="680" y="132" type="line"/>
+      <point x="750" y="128" type="line"/>
+      <point x="1672" y="128" type="line"/>
+      <point x="1672" y="250" type="line"/>
+    </contour>
+    <contour>
+      <point x="648" y="362" type="line"/>
+      <point x="1670" y="362" type="line"/>
+      <point x="1670" y="484" type="line"/>
+      <point x="748" y="484" type="line"/>
+      <point x="680" y="480" type="line"/>
+      <point x="679" y="484" type="line"/>
+      <point x="529" y="634" type="line"/>
+      <point x="449" y="554" type="line"/>
+      <point x="598" y="405" type="line"/>
+    </contour>
+    <component base="_arrowhead.right" xOffset="25"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019-10-05 14:23:31 +0000</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="less_equal_less.liga" format="1">
+  <advance width="1801"/>
+  <outline>
+    <contour>
+      <point x="377" y="128" type="line"/>
+      <point x="1294" y="128" type="line"/>
+      <point x="1364" y="132" type="line"/>
+      <point x="1365" y="128" type="line"/>
+      <point x="1515" y="-22" type="line"/>
+      <point x="1595" y="58" type="line"/>
+      <point x="1446" y="207" type="line"/>
+      <point x="1396" y="250" type="line"/>
+      <point x="377" y="250" type="line"/>
+      <point x="297" y="246" type="line"/>
+      <point x="296" y="250" type="line"/>
+      <point x="225" y="189" type="line"/>
+      <point x="296" y="128" type="line"/>
+      <point x="297" y="132" type="line"/>
+    </contour>
+    <contour>
+      <point x="375" y="362" type="line"/>
+      <point x="1396" y="362" type="line"/>
+      <point x="1446" y="405" type="line"/>
+      <point x="1595" y="554" type="line"/>
+      <point x="1515" y="634" type="line"/>
+      <point x="1365" y="484" type="line"/>
+      <point x="1364" y="480" type="line"/>
+      <point x="1296" y="484" type="line"/>
+      <point x="375" y="484" type="line"/>
+      <point x="295" y="480" type="line"/>
+      <point x="294" y="484" type="line"/>
+      <point x="223" y="423" type="line"/>
+      <point x="294" y="362" type="line"/>
+      <point x="295" y="366" type="line"/>
+    </contour>
+    <component base="_arrowhead.left"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019-10-05 14:25:17 +0000</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="exclam_equal_equal.liga" format="1">
+  <advance width="1800"/>
+  <outline>
+    <contour>
+      <point x="776" y="-143" type="line" name="hr00"/>
+      <point x="1158" y="755" type="line"/>
+      <point x="1025" y="755" type="line"/>
+      <point x="643" y="-143" type="line"/>
+    </contour>
+    <component base="equal_equal_equal.liga"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019-10-05 13:22:51 +0000</string>
+    </dict>
+  </lib>
+</glyph>

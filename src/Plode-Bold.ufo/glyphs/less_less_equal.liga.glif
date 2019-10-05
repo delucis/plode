@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="less_less_equal.liga" format="1">
+  <advance width="1800"/>
+  <outline>
+    <contour>
+      <point x="616" y="366" type="line"/>
+      <point x="696" y="362" type="line"/>
+      <point x="1667" y="362" type="line"/>
+      <point x="1667" y="484" type="line"/>
+      <point x="696" y="484" type="line"/>
+      <point x="616" y="480" type="line"/>
+      <point x="615" y="484" type="line"/>
+      <point x="544" y="423" type="line"/>
+      <point x="615" y="362" type="line"/>
+    </contour>
+    <contour>
+      <point x="618" y="132" type="line"/>
+      <point x="698" y="128" type="line"/>
+      <point x="1669" y="128" type="line"/>
+      <point x="1669" y="250" type="line"/>
+      <point x="698" y="250" type="line"/>
+      <point x="618" y="246" type="line"/>
+      <point x="617" y="250" type="line"/>
+      <point x="546" y="189" type="line"/>
+      <point x="617" y="128" type="line"/>
+    </contour>
+    <component base="_arrowhead.left"/>
+    <component base="_arrowhead.left" xOffset="318"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019-10-05 14:25:25 +0000</string>
+    </dict>
+  </lib>
+</glyph>
