@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="hyphen_less_less.liga" format="1">
+  <advance width="1800"/>
+  <outline>
+    <contour>
+      <point x="119" y="272" type="line"/>
+      <point x="1156" y="272" type="line"/>
+      <point x="1156" y="340" type="line"/>
+      <point x="119" y="340" type="line"/>
+    </contour>
+    <component base="_arrowhead.left" xOffset="973"/>
+    <component base="_arrowhead.left" xOffset="1256"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019-10-05 14:31:32 +0000</string>
+    </dict>
+  </lib>
+</glyph>

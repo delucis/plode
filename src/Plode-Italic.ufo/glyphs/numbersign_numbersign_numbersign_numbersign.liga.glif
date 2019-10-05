@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="numbersign_numbersign_numbersign_numbersign.liga" format="1">
+  <advance width="2400"/>
+  <outline>
+    <contour>
+      <point x="619" y="481" type="line"/>
+      <point x="608" y="417" type="line"/>
+      <point x="681" y="417" type="line"/>
+      <point x="692" y="481" type="line"/>
+    </contour>
+    <contour>
+      <point x="550" y="281" type="line"/>
+      <point x="539" y="217" type="line"/>
+      <point x="612" y="217" type="line"/>
+      <point x="623" y="281" type="line"/>
+    </contour>
+    <contour>
+      <point x="1219" y="481" type="line"/>
+      <point x="1208" y="417" type="line"/>
+      <point x="1281" y="417" type="line"/>
+      <point x="1292" y="481" type="line"/>
+    </contour>
+    <contour>
+      <point x="1150" y="281" type="line"/>
+      <point x="1139" y="217" type="line"/>
+      <point x="1212" y="217" type="line"/>
+      <point x="1223" y="281" type="line"/>
+    </contour>
+    <contour>
+      <point x="1819" y="481" type="line"/>
+      <point x="1808" y="417" type="line"/>
+      <point x="1881" y="417" type="line"/>
+      <point x="1892" y="481" type="line"/>
+    </contour>
+    <contour>
+      <point x="1750" y="281" type="line"/>
+      <point x="1739" y="217" type="line"/>
+      <point x="1812" y="217" type="line"/>
+      <point x="1823" y="281" type="line"/>
+    </contour>
+    <component base="numbersign" xOffset="600"/>
+    <component base="numbersign" xOffset="1200"/>
+    <component base="numbersign" xOffset="1800"/>
+    <component base="numbersign"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019-10-05 15:29:33 +0000</string>
+    </dict>
+  </lib>
+</glyph>

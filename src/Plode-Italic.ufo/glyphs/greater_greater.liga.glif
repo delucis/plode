@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="greater_greater.liga" format="1">
+  <advance width="1200"/>
+  <outline>
+    <component base="greater" xOffset="550"/>
+    <component base="greater" xOffset="50"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019-10-05 14:31:32 +0000</string>
+    </dict>
+  </lib>
+</glyph>

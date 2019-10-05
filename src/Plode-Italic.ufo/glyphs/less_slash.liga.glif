@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="less_slash.liga" format="1">
+  <advance width="1200"/>
+  <outline>
+    <contour>
+      <point x="601" y="-63" type="line" name="hr00"/>
+      <point x="636" y="0" type="line"/>
+      <point x="167" y="297" type="line"/>
+      <point x="168" y="305" type="line"/>
+      <point x="555" y="508" type="line"/>
+      <point x="569" y="593" type="line"/>
+      <point x="101" y="344" type="line"/>
+      <point x="88" y="268" type="line"/>
+    </contour>
+    <component base="slash" xOffset="500"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019-10-05 14:42:02 +0000</string>
+    </dict>
+  </lib>
+</glyph>

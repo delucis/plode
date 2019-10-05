@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="hyphen_greater.liga" format="1">
+  <advance width="1200"/>
+  <outline>
+    <contour>
+      <point x="979" y="278" type="line"/>
+      <point x="982" y="274" type="line"/>
+      <point x="1020" y="306" type="line"/>
+      <point x="982" y="338" type="line"/>
+      <point x="979" y="334" type="line"/>
+      <point x="883" y="340" type="line"/>
+      <point x="119" y="340" type="line"/>
+      <point x="119" y="272" type="line"/>
+      <point x="883" y="272" type="line"/>
+    </contour>
+    <component base="_arrowhead.right" xOffset="600"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019-10-05 14:31:32 +0000</string>
+    </dict>
+  </lib>
+</glyph>

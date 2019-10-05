@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="equal_equal_equal.liga" format="1">
+  <advance width="1800"/>
+  <outline>
+    <contour>
+      <point x="1705" y="273" type="line" name="hr00"/>
+      <point x="1716" y="339" type="line"/>
+      <point x="95" y="339" type="line"/>
+      <point x="84" y="273" type="line"/>
+    </contour>
+    <contour>
+      <point x="1671" y="74" type="line"/>
+      <point x="1682" y="140" type="line"/>
+      <point x="62" y="140" type="line"/>
+      <point x="51" y="74" type="line"/>
+    </contour>
+    <contour>
+      <point x="1738" y="472" type="line" name="hr00"/>
+      <point x="1749" y="538" type="line"/>
+      <point x="128" y="538" type="line"/>
+      <point x="117" y="472" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019-10-05 15:13:13 +0000</string>
+    </dict>
+  </lib>
+</glyph>
