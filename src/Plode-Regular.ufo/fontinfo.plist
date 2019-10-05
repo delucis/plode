@@ -36,7 +36,7 @@
 	<key>openTypeNamePreferredSubfamilyName</key>
 	<string>Regular</string>
 	<key>openTypeNameSampleText</key>
-	<string>How razorback-jumping frogs can level six piqued gymnasts!</string>
+	<string>let [...x] = arr =&amp;gt; arr.filter((i =&amp;gt; i !== 5)</string>
 	<key>openTypeNameUniqueID</key>
 	<string>CSw;Plode;0.001;2019</string>
 	<key>openTypeNameVersion</key>
