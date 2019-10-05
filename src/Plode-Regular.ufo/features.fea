@@ -479,9 +479,6 @@ sub slash equal by slash_equal.liga;
 sub slash greater by slash_greater.liga;
 sub slash slash by slash_slash.liga;
 sub underscore underscore by underscore_underscore.liga;
-} liga;
-
-feature liga {
 sub zero x' @numbers_hex by multiply;
 } liga;
 
