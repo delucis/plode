@@ -20,5 +20,6 @@ This extension of ligatures is released under the same terms as the original:
 
 - [Fira Code](https://github.com/tonsky/FiraCode) (a fork of Fira Mono)
 - [Hasklig](https://github.com/i-tu/Hasklig) (a fork of Source Code Pro)
+- [Operator Mono Ligatures](https://github.com/kiliman/operator-mono-lig) (a fork of Operator Mono)
 
 [plex]: https://github.com/IBM/plex
