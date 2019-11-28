@@ -1,14 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="less_less.liga" format="1">
+<glyph name="LIG" format="1">
   <advance width="600"/>
   <outline>
-    <component base="less" xOffset="-550"/>
-    <component base="less" xOffset="-50"/>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019-11-28 20:28:24 +0000</string>
+      <string>2019-11-28 14:26:19 +0000</string>
     </dict>
   </lib>
 </glyph>

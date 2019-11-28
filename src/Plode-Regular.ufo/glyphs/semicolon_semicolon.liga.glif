@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="semicolon_semicolon.liga" format="1">
-  <advance width="1200"/>
+  <advance width="600"/>
   <outline>
-    <component base="semicolon" xOffset="510"/>
-    <component base="semicolon" xOffset="90"/>
+    <component base="semicolon" xOffset="-90"/>
+    <component base="semicolon" xOffset="-510"/>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019-10-04 22:56:49 +0000</string>
+      <string>2019-11-28 20:29:47 +0000</string>
     </dict>
   </lib>
 </glyph>

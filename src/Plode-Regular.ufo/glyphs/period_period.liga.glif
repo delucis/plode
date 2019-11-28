@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="period_period.liga" format="1">
-  <advance width="1200"/>
+  <advance width="600"/>
   <outline>
-    <component base="period" xOffset="510"/>
-    <component base="period" xOffset="90"/>
+    <component base="period" xOffset="-90"/>
+    <component base="period" xOffset="-510"/>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019-10-04 22:32:14 +0000</string>
+      <string>2019-11-28 20:21:43 +0000</string>
     </dict>
   </lib>
 </glyph>

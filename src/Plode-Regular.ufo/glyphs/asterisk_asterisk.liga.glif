@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="asterisk_asterisk.liga" format="1">
-  <advance width="1200"/>
+  <advance width="600"/>
   <outline>
-    <component base="asterisk" xOffset="600"/>
     <component base="asterisk"/>
+    <component base="asterisk" xOffset="-600"/>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019-10-04 22:48:46 +0000</string>
+      <string>2019-11-28 20:27:22 +0000</string>
     </dict>
   </lib>
 </glyph>

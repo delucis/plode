@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="underscore_underscore.liga" format="1">
-  <advance width="1200"/>
+  <advance width="600"/>
   <outline>
     <contour>
-      <point x="1140" y="-169" type="line" name="hr00"/>
-      <point x="1140" y="-95" type="line"/>
-      <point x="60" y="-95" type="line"/>
-      <point x="60" y="-169" type="line"/>
+      <point x="540" y="-169" type="line" name="hr00"/>
+      <point x="540" y="-95" type="line"/>
+      <point x="-540" y="-95" type="line"/>
+      <point x="-540" y="-169" type="line"/>
     </contour>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019-10-04 22:14:53 +0000</string>
+      <string>2019-11-28 20:27:30 +0000</string>
     </dict>
   </lib>
 </glyph>

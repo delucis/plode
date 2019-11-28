@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="less_exclam_hyphen_hyphen.liga" format="1">
-  <advance width="2400"/>
+  <advance width="600"/>
   <outline>
-    <component base="less"/>
-    <component base="exclam" xOffset="600"/>
-    <component base="hyphen" xScale="4" xOffset="465"/>
-    <component base="hyphen" xScale="2" xOffset="-155"/>
+    <component base="less" xOffset="-1800"/>
+    <component base="exclam" xOffset="-1200"/>
+    <component base="hyphen" xScale="4" xOffset="-1335"/>
+    <component base="hyphen" xScale="2" xOffset="-1955"/>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019-10-04 23:12:12 +0000</string>
+      <string>2019-11-28 20:19:03 +0000</string>
     </dict>
   </lib>
 </glyph>

@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="colon_colon.liga" format="1">
-  <advance width="1200"/>
+  <advance width="600"/>
   <outline>
-    <component base="colon" xOffset="510"/>
-    <component base="colon" xOffset="90"/>
+    <component base="colon" xOffset="-90"/>
+    <component base="colon" xOffset="-510"/>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019-10-04 22:57:30 +0000</string>
+      <string>2019-11-28 20:22:08 +0000</string>
     </dict>
   </lib>
 </glyph>

@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="slash_slash_slash.liga" format="1">
-  <advance width="1800"/>
+  <advance width="600"/>
   <outline>
-    <component base="slash" xOffset="600"/>
-    <component base="slash" xOffset="1040"/>
-    <component base="slash" xOffset="160"/>
+    <component base="slash" xOffset="-600"/>
+    <component base="slash" xOffset="-160"/>
+    <component base="slash" xOffset="-1040"/>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019-10-04 22:35:38 +0000</string>
+      <string>2019-11-28 20:29:40 +0000</string>
     </dict>
   </lib>
 </glyph>

@@ -1,34 +1,34 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="less_equal_greater.liga" format="1">
-  <advance width="1800"/>
+  <advance width="600"/>
   <outline>
     <contour>
-      <point x="362" y="172" type="line"/>
-      <point x="1438" y="172" type="line"/>
-      <point x="1534" y="178" type="line" name="hr00"/>
-      <point x="1534" y="234" type="line"/>
-      <point x="1438" y="240" type="line"/>
-      <point x="362" y="240" type="line"/>
-      <point x="266" y="234" type="line"/>
-      <point x="266" y="178" type="line" name="hr00"/>
+      <point x="-838" y="172" type="line"/>
+      <point x="238" y="172" type="line"/>
+      <point x="334" y="178" type="line" name="hr00"/>
+      <point x="334" y="234" type="line"/>
+      <point x="238" y="240" type="line"/>
+      <point x="-838" y="240" type="line"/>
+      <point x="-934" y="234" type="line"/>
+      <point x="-934" y="178" type="line" name="hr00"/>
     </contour>
     <contour>
-      <point x="362" y="372" type="line"/>
-      <point x="1438" y="372" type="line"/>
-      <point x="1534" y="378" type="line" name="hr00"/>
-      <point x="1534" y="434" type="line"/>
-      <point x="1438" y="440" type="line"/>
-      <point x="362" y="440" type="line"/>
-      <point x="266" y="434" type="line"/>
-      <point x="266" y="378" type="line" name="hr00"/>
+      <point x="-838" y="372" type="line"/>
+      <point x="238" y="372" type="line"/>
+      <point x="334" y="378" type="line" name="hr00"/>
+      <point x="334" y="434" type="line"/>
+      <point x="238" y="440" type="line"/>
+      <point x="-838" y="440" type="line"/>
+      <point x="-934" y="434" type="line"/>
+      <point x="-934" y="378" type="line" name="hr00"/>
     </contour>
-    <component base="_arrowhead.right" xOffset="1200"/>
-    <component base="_arrowhead.left"/>
+    <component base="_arrowhead.right"/>
+    <component base="_arrowhead.left" xOffset="-1200"/>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019-10-04 22:20:08 +0000</string>
+      <string>2019-11-28 20:24:44 +0000</string>
     </dict>
   </lib>
 </glyph>
